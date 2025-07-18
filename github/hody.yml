@@ -1,1 +1,13 @@
+[project]
+name = "hody"
+version = "0.1.0"
+description = "Extracting Twitter Information"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "hody"
+]
 
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
