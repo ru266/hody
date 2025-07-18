@@ -1,0 +1,8 @@
+requests>=2.25.1
+pytest>=7.0
+pytest-cov
+twine
+setuptools
+wheel
+bumpversion
+python-dotenv
